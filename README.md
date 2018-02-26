@@ -9,8 +9,8 @@ eglsc-helper 是java 工具辅助类
 
  
 ## 快速开始
- maven 直接引入
-   <dependency>
+     maven 直接引入
+        <dependency>
               <groupId>com.github.xphsc</groupId>
               <artifactId>eglsc-helper</artifactId>
               <version>1.2.3</version>
