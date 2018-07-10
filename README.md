@@ -1,6 +1,6 @@
 
 ## 简介
-eglsc-helper 是java 工具辅助类
+xtool 是java 工具辅助类
 
 ## 特征&提供
 - BeanByRefMapper bean 之间的拷贝
